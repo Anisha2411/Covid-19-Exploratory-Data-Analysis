@@ -1,4 +1,4 @@
-📊 Covid-19 Exploratory Data Analysis Project – Cleaning & Insights
+<h1> 📊 Covid-19 Exploratory Data Analysis Project – Cleaning & Insights <h1>
 🚀 Project Overview
 
 This project demonstrates end-to-end data analysis using a real-world messy dataset.
